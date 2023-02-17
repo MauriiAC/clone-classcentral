@@ -1,0 +1,1 @@
+A simple one level deep clone of classcentral.com to practice web scraping
